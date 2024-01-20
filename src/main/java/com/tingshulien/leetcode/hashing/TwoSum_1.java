@@ -1,8 +1,8 @@
 package com.tingshulien.leetcode.hashing;
 
-import com.tingshulien.leetcode.utils.Array;
-import com.tingshulien.leetcode.utils.Hash;
 import com.tingshulien.leetcode.utils.Top;
+import com.tingshulien.leetcode.utils.topic.Array;
+import com.tingshulien.leetcode.utils.topic.HashTable;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -17,7 +17,7 @@ import java.util.Map;
  * You can return the answer in any order.
  */
 @Array
-@Hash
+@HashTable
 @Top
 public class TwoSum_1 {
 

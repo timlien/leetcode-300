@@ -1,8 +1,8 @@
 package com.tingshulien.leetcode.linkedlist;
 
-import com.tingshulien.leetcode.utils.LinkedList;
 import com.tingshulien.leetcode.utils.ListNode;
 import com.tingshulien.leetcode.utils.Top;
+import com.tingshulien.leetcode.utils.topic.LinkedList;
 
 /**
  * <a href="https://leetcode.com/problems/add-two-numbers/description/">2. Add Two Numbers</a>
